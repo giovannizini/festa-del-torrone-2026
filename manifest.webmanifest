@@ -1,0 +1,14 @@
+{
+  "name": "Festa del Torrone 2026 – U.S. Cremonese",
+  "short_name": "Torrone 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3D7AE",
+  "theme_color": "#F3D7AE",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

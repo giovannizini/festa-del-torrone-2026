@@ -1,0 +1,9 @@
+# Su GitHub Pages va SOLO la pagina pubblica.
+# Sorgenti, grafica maglia (assets/), server e dati restano sul PC.
+/*
+!/.gitignore
+!/index.html
+!/sw.js
+!/manifest.webmanifest
+!/icon-512.png
+!/apple-touch-icon.png
