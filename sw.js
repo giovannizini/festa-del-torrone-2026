@@ -1,5 +1,5 @@
 // Cache per l'uso offline quando la pagina è pubblicata in HTTPS e aggiunta alla schermata Home.
-const CACHE = "festa-del-torrone-2026-v1";
+const CACHE = "festa-del-torrone-2026-v2";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
